@@ -1,6 +1,6 @@
 # Apex TV signed menu updates
 
-Public update feed for Apex TV, a personal, unofficial F1 TV client for Samsung Tizen televisions. The signed menu is version 0.5.1.
+Public update feed for Apex TV, a personal, unofficial F1 TV client for Samsung Tizen televisions. The signed menu is version 0.5.2.
 
 The TV verifies the pinned RSA signature, the SHA-256 hash of each file, compatible shell/version metadata and the persisted update floor before installing an update. Updates are applied while the Home menu is idle or when explicitly requested in Settings. Watching and menu updates do not require the companion PC once this menu is installed.
 
