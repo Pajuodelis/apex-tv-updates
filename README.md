@@ -1,6 +1,6 @@
 # Apex TV signed menu updates
 
-This feed serves signed version **0.5.6** menu/player assets for the original
+This feed serves signed version **0.5.7** menu/player assets for the original
 paired Apex TV installation. The complete open-source application and public
 installer package are at https://github.com/Pajuodelis/apex-tv .
 
